@@ -1,2 +1,20 @@
-# -COVID-19-Data-Cleaning-and-Visualization-WHO-Dataset-
-This project focuses on cleaning and visualizing the World Health Organization (WHO) COVID-19 dataset. The dataset contains daily reports of COVID-19 cases and deaths worldwide. The goal is to preprocess the data, handle missing values, remove duplicates, and generate meaningful visualizations for analysis.
+# 🦠 COVID-19 Data Cleaning & Visualization
+
+## 📌 Project Overview
+This project focuses on cleaning and visualizing the WHO COVID-19 dataset. It preprocesses the data, handles missing values, removes duplicates, and generates insightful visualizations.
+
+## 📂 Dataset
+- **Source:** WHO COVID-19 Reports
+- **Key Columns:** Date, Country, WHO Region, Cases, Deaths
+
+## 🔧 Cleaning Steps
+- Convert date format
+- Remove duplicates
+- Fill missing values
+- Standardize categorical data
+- Save cleaned dataset
+
+## 📊 Visualizations
+- Line charts for new cases & deaths
+- Bar chart for cumulative cases
+- Pie chart for death distribution
